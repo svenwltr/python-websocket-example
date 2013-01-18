@@ -1,0 +1,77 @@
+body{
+    background-color: orangered;
+  
+}
+
+#leftnav{
+    height: 300px; 
+    width: 75%; 
+    float: left;
+    display: block;
+    margin-top: 20px;
+}
+
+#rightnav{
+    display: block;
+    height: 300px; 
+    width: 25%;
+    float: right;
+    margin-top: 20px;
+ }
+    #ausgabe1{
+        padding: 5px;
+        font:15px;
+        box-shadow: 0 0 5px 1px #000;
+        border: black thick solid; 
+        border-width: 1px;
+        margin-bottom: 20px;
+        height: 80%;
+        background: none repeat scroll 0% 0% transparent; 
+        overflow-y: scroll;     
+        background-color: beige;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #buddylist{
+        padding: 5px;
+        font-weight: bold;
+        font-family:  sans-serif;
+        box-shadow: 0 0 5px 1px #000;
+        border: black thick solid; 
+        border-width: 1px;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        background: none repeat scroll 0% 0% transparent; 
+        overflow-y: scroll; 
+        height: 80%;
+        width: 95%;
+        background-color: beige;
+    }
+    #button1{
+        box-shadow: 0 0 5px 1px #000;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /*background-image: url("brett.png");*/
+        background-size: cover;
+        height: 40px;
+        width: 95%;
+        color: black;
+        background-color: #cccccc;
+        font-weight: bold;
+    }
+    #eingabe{
+        box-shadow: 0 0 5px 1px #000;
+        padding-left: 5px;
+        display: block;
+        width: 95%;
+        margin-left: auto;
+        margin-right: auto;
+        height: 40px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+   
+
